@@ -1,0 +1,9 @@
+id,product,price,quantity,stock_left,stock_sold
+23,mango,80,500,500.0,0
+31,banana,2,2,1.0,0
+39,lichi,1,1,108.0,0
+49,Dairy milk silk,2,2,0.0,0
+50,kitkat,2,2,200.0,0
+51,munch chocolate,1,2,100.0,0
+92,corona beer,130,320,80.0,0
+94,Amul milk,24,500,2000.0,0

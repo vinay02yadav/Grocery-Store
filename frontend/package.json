@@ -1,0 +1,42 @@
+{
+  "name": "vin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.4.1",
+    "axios": "^1.5.0",
+    "bootstrap": "^5.3.1",
+    "bootstrap-vue": "^2.23.1",
+    "core-js": "^3.8.3",
+    "cors": "^2.8.5",
+    "file": "^0.2.2",
+    "jquery": "^3.7.1",
+    "loader": "^2.1.1",
+    "popper.js": "^1.16.1",
+    "vue": "^3.2.13",
+    "vue-cli-plugin-bootstrap": "^0.4.0",
+    "vue-plugin-load-script": "^2.1.1",
+    "vue-router": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/glob": "^8.1.0",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "^5.0.8",
+    "copy-webpack-plugin": "^11.0.0",
+    "resize-detector": "^0.3.0",
+    "vue-echarts": "^6.6.1",
+    "vue-template-compiler": "^2.7.9",
+    "webpack": "^5.89.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
